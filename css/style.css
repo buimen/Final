@@ -22,7 +22,7 @@ a:hover {
 	font-size: 24px;
 }
 
-.navbar-collapse li {
+.navbar-collapse li a {
 	font-family: OpenSansRegular;
 	font-size: 14px;
 }
@@ -110,26 +110,8 @@ a:hover {
 	margin-top: 50px;
 	margin-left: -30px;
 	position: absolute;
-}
-
-.header .header-banner .row .col-sm-2 .img-1 {
-	margin-left: -46px;
-    margin-top: 66px;
-}
-
-.header .header-banner .row .col-sm-2 .img-2 {
-	margin-left: -42px;
-    margin-top: 62px;
-}
-
-.header .header-banner .row .col-sm-2 .img-3 {
-	margin-left: -38px;
-    margin-top: 58px;
-}
-
-.header .header-banner .row .col-sm-2 .img-4 {
-	margin-left: -34px;
-    margin-top: 54px;
+	box-shadow: -5px 5px 0px 5px #656770;
+	border-radius: 5px;
 }
 
 /*End Banner*/
@@ -244,15 +226,27 @@ a:hover {
 	padding-bottom: 80px;
 }
 
+.content-portofolio .hover-a a {
+	color: #a7a7a7;
+}
+
+.content-portofolio .hover-a a:hover {
+	color: #323232;
+}
+
 .content-portofolio .row {
 	margin-top: 20px;
 }
 
 .content-portofolio .item {
-	background: #506083;
+	background: #7b7b7b;
 	min-height: 290px;
 	padding: 75px 50px 50px 50px;
 	border: 15px solid #fff;
+}
+
+.content-portofolio .item:hover {
+	background: #506083;
 }
 
 .content-portofolio .item span {
@@ -328,6 +322,7 @@ a:hover {
 	font-family: OpenSansRegular;
 	font-size: 18px;
 	color: #323232;
+	font-style: italic;
 }
 
 .content-portofolio .browse .slide .item h5 {

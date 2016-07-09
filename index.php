@@ -26,7 +26,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="">Macankumpang</a>
+						<a class="navbar-brand" href=""><strong>Macan</strong>kumpang</a>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse col-sm-5 col-md-5 col-lg-4" aria-expanded="false" style="height: 1px;">
 						<ul class="nav navbar-nav">
@@ -48,11 +48,7 @@
 							<button type="button" class="btn btn-danger">More</button>
 						</div>
 						<div class="col-xs-12 col-sm-2 col-md-5">
-							<img class="img-1" src="">
-							<img class="img-2" src="">
-							<img class="img-3" src="">
-							<img class="img-4" src="">
-							<img class="img-5" src="">
+							<img class="img-banner" src="">
 						</div>
 					</div>
 				</div>
@@ -113,7 +109,7 @@
 					<div class="line">
 						<img src="images/line-portofolio.png">
 					</div>
-					<p>All / Web / Print</p>
+					<p class="hover-a"><a href="">All</a> / <a href="">Web</a> / <a href="">Print</a></p>
 					<div class="row">
 						<?php
 							for ($i=0; $i < 6; $i++) { 
@@ -209,12 +205,12 @@
 				<p>Ready for 24/7</p>
 			</div>
 			<div class="content-maps">
-				<iframe src="https://www.google.com/maps/d/embed?mid=1qKf_PXYajoWwTBn2xZbJG76ucS4"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24807.11664459711!2d-77.0557183235302!3d38.99501637020374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c8cbe7677283%3A0x941b1d9634e5bbc8!2sImaam+Center!5e0!3m2!1sen!2s!4v1468034528862" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 			<div class="content-contact">
 				<div class="container">
-					<h2>Our Services</h2>
-					<p>our awesome services</p>
+					<h2>Contact</h2>
+					<p>Let's talk business, get in touch!</p>
 					<div class="line">
 						<img src="images/line.png">
 					</div>
@@ -289,7 +285,7 @@
 		</div>
 		<div class="footer">
 			<p>(c) copyright 2013 macankumbang </p>
-			<footer>Macankumbang</footer>
+			<footer><strong>Macan</strong>kumbang</footer>
 		</div>
 	
 	<!-- Bootstrap core JavaScript -->
