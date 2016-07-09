@@ -1,0 +1,27 @@
+@media screen and (max-width: 1280px) {
+	.content-portofolio .item {padding: 50px 10px;}
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and (max-width: 992px) {
+	.header .header-banner .row .col-sm-2 {display: none;}
+	.navbar-default .navbar-nav .open .dropdown-menu> li > a:hover,
+    .dropdown-menu > li > a:hover {color: #FFF!important;}
+}
+
+@media screen and (max-width: 768px) {
+	.content-portofolio .browse .slide .item h5 {padding-bottom: 70px;}
+	.content-contact .btn-default {margin-top: -100px;}
+	.content-contact .item .col-sm-6 .icons {padding-top: 25px;}
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 320px) {
+
+}
