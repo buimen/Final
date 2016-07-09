@@ -10,6 +10,7 @@
 	<link href="http://getbootstrap.com/examples/navbar-fixed-top/navbar-fixed-top.css" rel="stylesheet">
 	<link rel="stylesheet" href="./css/style.css">
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Myriad+Pro" />
 	<script src="https://use.fontawesome.com/c50c5bf797.js"></script>
 	<script src="./js/ie-emulation-modes-warning.js"></script><style type="text/css"></style>
 	<link rel="stylesheet" type="text/css" href="css/reponsive.css">
