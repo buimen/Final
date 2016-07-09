@@ -9,6 +9,7 @@
 	<link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link href="http://getbootstrap.com/examples/navbar-fixed-top/navbar-fixed-top.css" rel="stylesheet">
 	<link rel="stylesheet" href="./css/style.css">
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
 	<script src="https://use.fontawesome.com/c50c5bf797.js"></script>
 	<script src="./js/ie-emulation-modes-warning.js"></script><style type="text/css"></style>
 	<link rel="stylesheet" type="text/css" href="css/reponsive.css">
@@ -19,7 +20,7 @@
 			<nav class="navbar navbar-fixed-top" role="navigation">
 				<div class="container">
 					<div class="row">
-					<div class="navbar-header col-sm-5 col-md-7 col-lg-8">
+					<div class="navbar-header col-sm-7">
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 							<span class="sr-only">menu mobile</span>
 							<span class="icon-bar"></span>
@@ -28,7 +29,7 @@
 						</button>
 						<a class="navbar-brand" href=""><strong>Macan</strong>kumpang</a>
 					</div>
-					<div id="navbar" class="navbar-collapse collapse col-sm-5 col-md-5 col-lg-4" aria-expanded="false" style="height: 1px;">
+					<div id="navbar" class="navbar-collapse collapse col-sm-5" aria-expanded="false" style="height: 1px;">
 						<ul class="nav navbar-nav">
 							<li class="active"><a href="">Home</a></li>
 							<li><a href="#">Services</a></li>

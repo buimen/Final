@@ -16,6 +16,10 @@ a:hover {
 	padding: 13px 0px;
 }
 
+.navbar-fixed-top .navbar-collapse {
+	margin-left: 50px;
+}
+
 .navbar-brand {
 	color: #FFF;
 	font-family: MyriadProRegular;
@@ -23,7 +27,7 @@ a:hover {
 }
 
 .navbar-collapse li a {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 14px;
 }
 
@@ -82,20 +86,21 @@ a:hover {
 }
 
 .header .header-banner .row .col-sm-10 span {
-	font-family: OpenSansBold;
+	font-family: Open Sans;
+    font-weight: bold;
 	font-size: 36px;
 	color: #fff;
 }
 
 .header .header-banner .row .col-sm-10 p {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 24px;
 	color: #fff;
 	margin-top: 40px;
 }
 
 .header .header-banner .row .col-sm-10 button {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 18px;
 	color: #fff;
 	width: 145px;
@@ -128,14 +133,15 @@ a:hover {
 
 .content-services .container h2 {
 	text-align: center;
-	font-family: OpenSansBold;
+	font-family: Open Sans;
+    font-weight: bold;
 	font-size: 30px;
 	color: #fff;
 }
 
 .content-services .container p {
 	text-align: center;
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 18px;
 	color: #fff;
 }
@@ -162,20 +168,21 @@ a:hover {
 
 .content-services .container .row h5 {
 	color: #fff;
-	font-family: OpenSansBold;
+	font-family: Open Sans;
+    font-weight: bold;
 	font-size: 18px;
 	padding-top: 20px;
 }
 
 .content-services .container .row p {
 	color: #fff;
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 14px;
 	padding-bottom: 30px;
 }
 
 .content-services .container .row button {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 11px;
 	width: 85px;
 	height: 33px;
@@ -192,12 +199,13 @@ a:hover {
 }
 
 .content-works span {
-	font-family: OpenSansBold;
+	font-family: Open Sans;
+    font-weight: bold;
 	font-size: 48px;
 }
 
 .content-works p {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 24px;
 }
 
@@ -213,12 +221,13 @@ a:hover {
 }
 
 .content-portofolio span {
-	font-family: OpenSansBold;
+	font-family: Open Sans;
+    font-weight: bold;
 	font-size: 30px;
 }
 
 .content-portofolio p {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 18px;
 }
 
@@ -250,13 +259,14 @@ a:hover {
 }
 
 .content-portofolio .item span {
-	font-family: OpenSansBold;
+	font-family: Open Sans;
+    font-weight: bold;
 	font-size: 24px;
 	color: #fff;
 }
 
 .content-portofolio .item p {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 14px;
 	color: #fff;
 	padding-top: 25px;
@@ -280,7 +290,8 @@ a:hover {
 }
 
 .content-portofolio .browse .all strong {
-	font-family: OpenSansBold;
+	font-family: Open Sans;
+    font-weight: bold;
 	font-size: 18px;
 	line-height: 1.3;
 }
@@ -291,12 +302,13 @@ a:hover {
 
 .content-portofolio .browse h2 {
 	margin-top: 70px;
-	font-family: OpenSansBold;
+	font-family: Open Sans;
+    font-weight: bold;
 	font-size: 30px;
 }
 
 .content-portofolio .browse p {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 18px;
 }
 
@@ -319,14 +331,15 @@ a:hover {
 }
 
 .content-portofolio .browse .slide .item p {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 18px;
 	color: #323232;
 	font-style: italic;
 }
 
 .content-portofolio .browse .slide .item h5 {
-	font-family: OpenSansBold;
+	font-family: Open Sans;
+    font-weight: bold;
 	font-size: 24px;
 	color: #323232;
 	padding-top: 5px;
@@ -356,12 +369,13 @@ a:hover {
 }
 
 .content-get span {
-	font-family: OpenSansBold;
+	font-family: Open Sans;
+    font-weight: bold;
 	font-size: 48px;
 }
 
 .content-get p {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 24px;
 }
 
@@ -382,14 +396,15 @@ a:hover {
 
 .content-contact h2 {
 	text-align: center;
-    font-family: OpenSansBold;
+    font-family: Open Sans;
+    font-weight: bold;
     font-size: 30px;
     color: #fff;
 }
 
 .content-contact p {
 	text-align: center;
-    font-family: OpenSansRegular;
+    font-family: Open Sans;
     font-size: 18px;
     color: #fff;
 }
@@ -401,7 +416,7 @@ a:hover {
 
 .content-contact .item .col-sm-6 strong {
 	font-size: 18px;
-	font-family: OpenSansBold, OpenSansRegular;
+	font-family: Open Sans;
 	color: #fff;
 }
 
@@ -445,7 +460,7 @@ a:hover {
 	height: 60px;
 	width: 100%;
 	padding-left: 20px;
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 18px;
 	color: #747474;
 }
@@ -456,7 +471,7 @@ a:hover {
 	padding-left: 20px;
 	padding-top: 20px;
 	margin-top: 20px;
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 18px;
 	color: #747474;
 }
@@ -464,7 +479,7 @@ a:hover {
 .content-contact .container .item .col-sm-6 .btn-danger {
 	width: 155px;
 	height: 60px;
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 18px;
 	margin-top: 20px;
 }
@@ -490,7 +505,7 @@ a:hover {
 }
 
 .footer p {
-	font-family: OpenSansRegular;
+	font-family: Open Sans;
 	font-size: 14px;
 	color: #76777f;
 	text-align: center;
